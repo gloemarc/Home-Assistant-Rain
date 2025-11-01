@@ -8,6 +8,6 @@ Einstellungen -> Dashboards -> 3 Punkte Menü oben rechts -> Ressources
 
 neue Ressource anlegen (JavaScript-Modul) /local/rain.js
 
-Einen Helfer anlegen -Y Schalter Regen -> input_boolean.regen
+Einen Helfer anlegen -> Schalter Regen -> input_boolean.regen
 
 Jetzt könnt Ihr einen Switch mit der Entität Regen erstellen ! :-)
